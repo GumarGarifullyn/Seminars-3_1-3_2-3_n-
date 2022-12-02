@@ -4,7 +4,7 @@
 // 5 -> Пятница
 
 Console.WriteLine("Введите число от 1 до 7, чтобы определить день недели ");
-int a = int.Parse(Console.ReadLine());
+int a = int.Parse(Console.ReadLine()!);
 
 if(a >= 1 & a <=7)
 {
