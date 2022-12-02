@@ -6,9 +6,9 @@
 // a = 9, b = -3 -> да
 // a = -3 b = 9 -> нет
 Console.Write("Введите первое число ");
-int a = int.Parse(Console.ReadLine());
+int a = int.Parse(Console.ReadLine()!);
 Console.Write("Введите второе число и узнайте является ли оно квадратным корнем первого числа ");
-int b = int.Parse(Console.ReadLine());
+int b = int.Parse(Console.ReadLine()!);
 
 if(a == b*b)
 {
