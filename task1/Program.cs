@@ -5,18 +5,16 @@
 // a = 2, b = 10 -> нет
 // a = 9, b = -3 -> да
 // a = -3 b = 9 -> нет
+Console.Write("Введите первое число ");
+int a = int.Parse(Console.ReadLine());
+Console.Write("Введите второе число и узнайте является ли оно квадратным корнем первого числа ");
+int b = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Введите первое число: ");
-int A = Console.Read();
-
-Console.WriteLine("Введите второе  число: ");
-int B = Console.Read();
-    
-if(A==B*B)
+if(a == b*b)
 {
-    Console.WriteLine("Введенное первое число, является квадратным числом второго ");
+    Console.WriteLine("Ура, все верно!");
 }
 else
 {
-    Console.WriteLine("Введенное первое число, не является квадратным числом второго. Попробуй еще раз ");
+    Console.WriteLine("Увы!Попробуй еще раз");
 }
