@@ -7,5 +7,6 @@
 
 Console.WriteLine("Введите число");
 int A = int.Parse(Console.ReadLine()!);
+
 if (A % 7 == 0 && A % 23 == 0) Console.WriteLine("Yes");
 else Console.WriteLine("No");
