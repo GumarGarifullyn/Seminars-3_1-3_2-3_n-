@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\GitHub\\Семинары\\Seminars-3_1-3_2-3_n-\\task3_1\\task3_1.csproj": {}
+    "C:\\Users\\User\\Desktop\\GitHub\\Семинары\\Seminars-3_1-3_2-3_n-\\task4\\task4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\GitHub\\Семинары\\Seminars-3_1-3_2-3_n-\\task3_1\\task3_1.csproj": {
+    "C:\\Users\\User\\Desktop\\GitHub\\Семинары\\Seminars-3_1-3_2-3_n-\\task4\\task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\GitHub\\Семинары\\Seminars-3_1-3_2-3_n-\\task3_1\\task3_1.csproj",
-        "projectName": "task3_1",
-        "projectPath": "C:\\Users\\User\\Desktop\\GitHub\\Семинары\\Seminars-3_1-3_2-3_n-\\task3_1\\task3_1.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\GitHub\\Семинары\\Seminars-3_1-3_2-3_n-\\task4\\task4.csproj",
+        "projectName": "task4",
+        "projectPath": "C:\\Users\\User\\Desktop\\GitHub\\Семинары\\Seminars-3_1-3_2-3_n-\\task4\\task4.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\GitHub\\Семинары\\Seminars-3_1-3_2-3_n-\\task3_1\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\GitHub\\Семинары\\Seminars-3_1-3_2-3_n-\\task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
