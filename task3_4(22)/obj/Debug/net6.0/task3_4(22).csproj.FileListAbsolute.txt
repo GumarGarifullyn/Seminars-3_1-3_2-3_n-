@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GitHub\Семинары\Seminars-3_1-3_2-3_n-\task3_4(22)\bin\Debug\net6.0\task3_4(22).exe
+C:\Users\User\Desktop\GitHub\Семинары\Seminars-3_1-3_2-3_n-\task3_4(22)\bin\Debug\net6.0\task3_4(22).deps.json
+C:\Users\User\Desktop\GitHub\Семинары\Seminars-3_1-3_2-3_n-\task3_4(22)\bin\Debug\net6.0\task3_4(22).runtimeconfig.json
+C:\Users\User\Desktop\GitHub\Семинары\Seminars-3_1-3_2-3_n-\task3_4(22)\bin\Debug\net6.0\task3_4(22).dll
+C:\Users\User\Desktop\GitHub\Семинары\Seminars-3_1-3_2-3_n-\task3_4(22)\bin\Debug\net6.0\task3_4(22).pdb
+C:\Users\User\Desktop\GitHub\Семинары\Seminars-3_1-3_2-3_n-\task3_4(22)\obj\Debug\net6.0\task3_4(22).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GitHub\Семинары\Seminars-3_1-3_2-3_n-\task3_4(22)\obj\Debug\net6.0\task3_4(22).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GitHub\Семинары\Seminars-3_1-3_2-3_n-\task3_4(22)\obj\Debug\net6.0\task3_4(22).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GitHub\Семинары\Seminars-3_1-3_2-3_n-\task3_4(22)\obj\Debug\net6.0\task3_4(22).AssemblyInfo.cs
+C:\Users\User\Desktop\GitHub\Семинары\Seminars-3_1-3_2-3_n-\task3_4(22)\obj\Debug\net6.0\task3_4(22).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GitHub\Семинары\Seminars-3_1-3_2-3_n-\task3_4(22)\obj\Debug\net6.0\task3_4(22).dll
+C:\Users\User\Desktop\GitHub\Семинары\Seminars-3_1-3_2-3_n-\task3_4(22)\obj\Debug\net6.0\refint\task3_4(22).dll
+C:\Users\User\Desktop\GitHub\Семинары\Seminars-3_1-3_2-3_n-\task3_4(22)\obj\Debug\net6.0\task3_4(22).pdb
+C:\Users\User\Desktop\GitHub\Семинары\Seminars-3_1-3_2-3_n-\task3_4(22)\obj\Debug\net6.0\task3_4(22).genruntimeconfig.cache
+C:\Users\User\Desktop\GitHub\Семинары\Seminars-3_1-3_2-3_n-\task3_4(22)\obj\Debug\net6.0\ref\task3_4(22).dll
