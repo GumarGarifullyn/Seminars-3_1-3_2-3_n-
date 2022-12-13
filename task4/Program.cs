@@ -8,14 +8,14 @@ int a = int.Parse(Console.ReadLine());
 Console.WriteLine($"Сумма чисел = {GetSumNums(a)}");
 
 
-Console.Write("Введите число: ");
-int b = int.Parse(Console.ReadLine());
-Console.WriteLine($"Сумма чисел = {GetSumNums(b)}");
+// Console.Write("Введите число: ");
+// int b = int.Parse(Console.ReadLine());
+// Console.WriteLine($"Сумма чисел = {GetSumNums(b)}");
 
 
-Console.Write("Введите число: ");
-int c = int.Parse(Console.ReadLine());
-Console.WriteLine($"Сумма чисел = {GetSumNums(c)}");
+// Console.Write("Введите число: ");
+// int c = int.Parse(Console.ReadLine());
+// Console.WriteLine($"Сумма чисел = {GetSumNums(c)}");
 
 
 int GetSumNums(int number)
