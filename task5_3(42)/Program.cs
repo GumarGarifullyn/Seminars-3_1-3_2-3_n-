@@ -15,4 +15,4 @@ string Number (int num)
     }
     return count;
 }
-Console.Write(Number(13));
+Console.Write(Number(45));
